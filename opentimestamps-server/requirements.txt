@@ -1,0 +1,7 @@
+opentimestamps>=0.3.0,<0.5.0
+leveldb>=0.20
+pystache>=0.5
+requests>=2.21
+qrcode==6.1
+simplejson==3.16.0
+python-bitcoinlib>=0.12.1,<0.13.0
